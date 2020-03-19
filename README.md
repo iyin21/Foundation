@@ -1,0 +1,1 @@
+This project contains the html file, css file snd the images used in building the mockup of a webpage
