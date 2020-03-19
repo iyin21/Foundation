@@ -1,0 +1,126 @@
+.masthead-brand{
+	float: left;
+	/*margin-bottom: 0;*/
+	padding-left: 50px;
+	font-size: 20px;
+}	
+.nav{
+	margin-right: 10%;
+	
+}
+.nav-link{
+	color: #000000;
+}
+.active{
+	color: #20B2AA;
+}
+header{
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.p-3{
+	background: #ffffff;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.lefty{
+	padding-left: 6px;
+}
+.rest{
+	font-family: 'Roboto', serif;
+	font-weight: 100;
+
+}
+.first{
+	background:url(john-koliogiannis-1391598-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #ffffff;
+}
+.content{
+	padding-top: 200px;
+	padding-left: 50px;
+	padding-bottom: 150px;
+}
+.second{
+	background: #20B2AA;
+	background-size: cover;
+	height: 600px;
+	font-size: 20px;
+
+}
+.btn{
+	border-radius: 0px;
+}
+.leter{
+	padding-top: 100px;
+	color: #ffffff;
+}
+.leter h3, .fik{
+	letter-spacing: 5px;
+}
+.third{
+	background: #ffffff;
+	height: 400px;
+
+}
+.fourth{
+	background: #20B2AA;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.fourth h4{
+	padding-bottom: 50px; 
+	color: #ffffff;
+}
+.righ{
+	padding-right: 2px;
+}
+.fifth{
+	background: #ffffff;
+	height:400px;
+
+
+}
+.sixth{
+	background: #F8F8FF;
+	height: 500px;
+	padding-top: 100px;
+	font-size: 20px;
+	font-weight: 30px;	
+}
+.seventh{
+	background: #20B2AA;
+	height: 500px;
+	padding-top: 100px;
+	color: #ffffff;
+	font-size: 20px;
+
+}
+.col-sm-4{
+	padding-top: 50px;
+}
+
+.col-sm-4 p{
+
+	background-color: #ffffff;
+	width: 400px;
+	margin-left: 3%;
+	height: 50px;
+	text-align: left;
+	padding-left: 10px;
+}	
+footer{
+	background-color: #ffffff;
+	height: 100px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+i{
+	margin-right: 0px;
+}
